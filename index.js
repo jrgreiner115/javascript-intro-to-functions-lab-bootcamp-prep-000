@@ -7,5 +7,5 @@ function logWhisper() {console.log("hello")
 function logShout() {console.log("HELLO")
 }
 function sayHiToGrandma(string) {
-  if (string.toLowerCase() === string) 
+  if (string.toLowerCase() === string) {return 
 }
